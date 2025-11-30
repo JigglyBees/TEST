@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Gold Banner Text</Welcome Back, Jess>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap" rel="stylesheet">
+<style>
+body {
+background: transparent;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+margin: 0;
+}
+.banner-text {
+font-family: 'Cinzel Decorative', serif;
+color: gold;
+font-size: 64px; /* adjust size as needed */
+text-align: center;
+}
+</style>
+</head>
+<body>
+<div class="banner-text">Your Banner Text Here</div>
+</body>
+</html>
